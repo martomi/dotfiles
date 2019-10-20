@@ -85,6 +85,10 @@ map <F7> gg=G<C-o><C-o>
 " vv to generate new vertical split
 nnoremap <silent> vv <C-w>v
 
+" Press jk for Esc
+imap jk <Esc>
+imap kj <Esc>
+
 " Enable folding with the spacebar
 nnoremap <space> za
 
