@@ -26,6 +26,7 @@ filetype plugin indent on    " required
 
 set encoding=utf-8 
 set mouse=a " Enable mouse support
+set ttymouse=xterm2 " Enables mouse support for pane resizing
 
 " More intuitive backspace behaviour
 set backspace=2 
