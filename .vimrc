@@ -11,7 +11,8 @@ call vundle#begin()
 " let Vundle manage Vundle, required
 Plugin 'VundleVim/Vundle.vim'
 
-Plugin 'tpope/vim-endwise' " Auto-adds end to certain structures
+Plugin 'tpope/vim-surround' " Easy manipulation of (, [, {, etc
+Plugin 'tpope/vim-repeat' " Enable repeating of plugin maps
 Plugin 'vim-airline/vim-airline' " Cool statusbar at the bottom
 Plugin 'christoomey/vim-tmux-navigator' " Seemless navigation with tmux
 Plugin 'tmhedberg/SimpylFold' " Proper code folding for Python
