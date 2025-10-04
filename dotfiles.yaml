@@ -1,0 +1,5 @@
+files:
+  - .zshrc
+  - .vimrc
+  - .tmux.conf
+  - .config/ghostty/config
